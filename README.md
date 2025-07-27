@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey there, I'm Spinjur
 
-<!--
-**Spinjur/spinjur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creative fixer. Grey-haired geek. Civic dreamer with a blueprint in one hand and a wrench in the other.
 
-Here are some ideas to get you started:
+I'm the mind behind **Repairica** — a people-powered movement to reimagine democracy with vision, clarity, and courage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ **Current Project:**  
+🔧 [`repairica-manifesto`](https://github.com/spinjur/repairica-manifesto) – A blueprint to fix what democracy forgot
+
+🎧 Building: The Repairica Playlist  
+🎤 Writing: A TED Talk that ends with “I Saved the World Today” by Annie Lennox  
+📜 Drafting: The Repairica Creed, CivicMatch tools, and the She-ro anthem
+
+---
+
+💙 *Let’s fix it. Not with violence. Not with vengeance. With vision—and with a united vibe.*
