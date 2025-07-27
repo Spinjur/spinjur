@@ -15,4 +15,4 @@ I'm the mind behind **Repairica** — a people-powered movement to reimagine dem
 
 ---
 
-💙 *Let’s fix it. Not with violence. Not with vengeance. With vision—and with a united vibe.*
+💙 *Let’s fix it. Not with violence. Not with vengeance. With vision—and with a virtuous vibe.*
